@@ -331,8 +331,8 @@ body {
 }
 
 #headerWrapper {
-  background-color: rgb(232, 233, 234);
-  color: #d96906;
+  background-color: rgb(246, 246, 246);
+  color: #dd3b0f;
 }
 
 header {
@@ -348,7 +348,7 @@ header h1 {
 }
 
 #navWrapper {
-  background-color: rgb(255, 170, 0);
+  background-color: rgb(6, 36, 50);
 }
 
 nav ul {
@@ -361,7 +361,7 @@ nav ul li {
   flex: 1;
 }
 nav li.active {
-  background-color: #c53316;
+  background-color: #b24d00;
 }
 nav a {
   display: block;
@@ -375,7 +375,7 @@ nav a:hover {
 }
 
 #footerWrapper {
-  background-color: #d96906;
+  background-color: #9e2301;
 }
 
 footer {
